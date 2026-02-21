@@ -1,0 +1,53 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CV</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Patriciah Njeri</h1>
+    <p>Software Engineering Student</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I am a motivated learner who is intrested in web developing as a part of my course hence building my cv website
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript (Basic)</li>
+      <li>python</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>As for my education i started school at St Peters Mbiri primary school where i did my KCPE And got 367 Marka and later joined Loreto Kiambu Girl High School and was to have sat for the national exam  KCSE Where i managed to score a grade of C.Am Currently a student in Kiriri women  of science and  technology  undertaking a diploma course duration 2years in software engineering(2026-2027)
+</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <h3>web development practice>/h3
+    <p>learning how to use HTML and css</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: patriciahnjeri0@gmail.com</p>
+    <p>Phone: +254745481488</p>
+  </section>
+
+</body>
+</html>
